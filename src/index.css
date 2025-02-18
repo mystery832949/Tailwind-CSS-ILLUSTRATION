@@ -1,0 +1,18 @@
+* { 
+    box-sizing: border-box;  
+    font-family: "Rubik", serif;
+    margin: 0 ; 
+    padding: 0 ; 
+}
+body{
+    background:   hsl(270, 20%, 96%); 
+}
+
+
+ 
+body, html {
+    overflow-x: hidden;
+    overflox-y:hidden;  /* Prevent horizontal scrolling */
+    height: 100%; /* Ensure no vertical overflow */
+  }
+  
